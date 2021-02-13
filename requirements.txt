@@ -24,7 +24,7 @@ Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.4
 Flask-Versioned==0.9.4.post20101221
 future==0.18.2; python_version < '3.0'
-httplib2==0.18.1
+httplib2==0.19.0
 huey==2.3.0
 idna==2.10
 importlib-resources==3.0.0
